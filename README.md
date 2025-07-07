@@ -1,16 +1,48 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**mariamsherif04/mariamsherif04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hi there, I'm **Mariam Sherif**
 
-Here are some ideas to get you started:
+🎓 *"A dedicated biomedical engineering student passionate about learning, problem-solving, and building real-world projects."*  
+🌍 Based in **Egypt**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![trophy](https://github-profile-trophy.vercel.app/?username=mariamsherif04&theme=gruvbox&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
+
+![Profile Views](https://komarev.com/ghpvc/?username=mariamsherif04&label=Profile%20Views&color=0e75b6&style=flat)
+
+</div>
+
+---
+
+## 🌱 What I'm Up To
+- 🔭 Developing my skills in programming and data analysis
+- 💡 Exploring innovative healthcare technology solutions
+- 🤝 Open to collaborations and learning opportunities
+
+---
+
+## ✉️ How to Reach Me
+📬 **Email:** [mariam.awwad04@eng-st.cu.edu.eg](mailto:mariam.awwad04@eng-st.cu.edu.eg)  
+💼 **LinkedIn:** [Connect with me](https://www.linkedin.com/in/mariam-sherif-76b984326)
+
+---
+
+## 🛠️ Languages & Tools I Use
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" alt="R" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" alt="Flask" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40"/>
+</p>
+
+---
+
+## 📊 Most Used Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariamsherif04&layout=compact&theme=gruvbox"/>
+</p>
